@@ -1,3 +1,4 @@
+//szukanie liniowe
 public class mainz1 {
     public static void main(String[] args){
         int[] wektor = {7,9,12,13,14,14,14,15,45,57,89,95,100};
