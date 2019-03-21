@@ -1,3 +1,4 @@
+//dopisywanie
 import static java.lang.System.arraycopy;
 
 public class mainz2 {
